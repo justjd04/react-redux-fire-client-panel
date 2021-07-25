@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-redux-fire-client-panel/static/css/main.8a18a57d.chunk.css",
+    "main.js": "/react-redux-fire-client-panel/static/js/main.6913888c.chunk.js",
+    "main.js.map": "/react-redux-fire-client-panel/static/js/main.6913888c.chunk.js.map",
+    "runtime-main.js": "/react-redux-fire-client-panel/static/js/runtime-main.b1f7caf8.js",
+    "runtime-main.js.map": "/react-redux-fire-client-panel/static/js/runtime-main.b1f7caf8.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/react-redux-fire-client-panel/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.595e4e8b.chunk.js": "/react-redux-fire-client-panel/static/js/2.595e4e8b.chunk.js",
+    "static/js/2.595e4e8b.chunk.js.map": "/react-redux-fire-client-panel/static/js/2.595e4e8b.chunk.js.map",
+    "index.html": "/react-redux-fire-client-panel/index.html",
+    "static/css/2.3ab4f688.chunk.css.map": "/react-redux-fire-client-panel/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.8a18a57d.chunk.css.map": "/react-redux-fire-client-panel/static/css/main.8a18a57d.chunk.css.map",
+    "static/js/2.595e4e8b.chunk.js.LICENSE.txt": "/react-redux-fire-client-panel/static/js/2.595e4e8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f7caf8.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.595e4e8b.chunk.js",
+    "static/css/main.8a18a57d.chunk.css",
+    "static/js/main.6913888c.chunk.js"
+  ]
+}
